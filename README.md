@@ -27,7 +27,7 @@ A comprehensive **Project Management Portal** built using **Java Spring Boot** f
 - **React.js**: JavaScript library for building the user interface.
 - **React Router**: For handling routing and navigation.
 - **Axios**: To make API requests to the Spring Boot backend.
-- **Material-UI**: For the user interface components.
+- **shadcn/ui**: For the user interface components.
 
 ### Tools
 - **Maven**: For building and managing dependencies.
