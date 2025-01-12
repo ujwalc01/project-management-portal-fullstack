@@ -10,7 +10,6 @@ A comprehensive **Project Management Portal** built using **Java Spring Boot** f
 - **Project Management**: Create, update, and track projects with detailed progress monitoring.
 - **Task Management**: Assign tasks to team members, track task status, set deadlines.
 - **Team Collaboration**: Enable communication and collaboration with project-specific teams.
-- **Notifications**: Real-time notifications for task updates, project changes, and deadlines.
 - **RESTful API**: Backend exposes a set of RESTful APIs for seamless communication with the frontend.
 
 ---
