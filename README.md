@@ -31,4 +31,5 @@ A comprehensive **Project Management Portal** built using **Java Spring Boot** f
 ### Tools
 - **Maven**: For building and managing dependencies.
 - **Git**: Version control for managing project history.
+- **Postman**: For API testing.
 - **JWT (JSON Web Tokens)**: For secure authentication.
